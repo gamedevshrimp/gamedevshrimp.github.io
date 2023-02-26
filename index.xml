@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gamedevshrimp</title>
-    <link>gamedevshrimp.github.io/</link>
+    <link>https://gamedevshrimp.github.io/</link>
     <description>Recent content on Gamedevshrimp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="gamedevshrimp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gamedevshrimp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>gamedevshrimp.github.io/posts/first/</link>
+      <link>https://gamedevshrimp.github.io/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>gamedevshrimp.github.io/posts/first/</guid>
+      <guid>https://gamedevshrimp.github.io/posts/first/</guid>
       <description>Test Second </description>
     </item>
     
